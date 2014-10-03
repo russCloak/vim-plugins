@@ -10,9 +10,6 @@
 [submodule "vim-spec-finder"]
 	path = vim-spec-finder
 	url = git@github.com:skwp/vim-spec-finder.git
-[submodule "xterm-color-table.vim"]
-	path = xterm-color-table.vim
-	url = git@github.com:guns/xterm-color-table.vim.git
 [submodule "vim-test-recall"]
 	path = vim-test-recall
 	url = git@github.com:cyphactor/vim-test-recall.git
