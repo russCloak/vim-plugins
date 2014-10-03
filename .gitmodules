@@ -19,3 +19,6 @@
 [submodule "vim-rubocop"]
 	path = vim-rubocop
 	url = git@github.com:ngmy/vim-rubocop.git
+[submodule "vim-textobj-user"]
+	path = vim-textobj-user
+	url = git@github.com:kana/vim-textobj-user.git
