@@ -1,3 +1,24 @@
 [submodule "vim-textobj-rubyblock"]
 	path = vim-textobj-rubyblock
 	url = git@github.com:nelstrom/vim-textobj-rubyblock.git
+[submodule "ack-vim"]
+	path = ack-vim
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "colorschemes"]
+	path = colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "vim-spec-finder"]
+	path = vim-spec-finder
+	url = git@github.com:skwp/vim-spec-finder.git
+[submodule "xterm-color-table.vim"]
+	path = xterm-color-table.vim
+	url = git@github.com:guns/xterm-color-table.vim.git
+[submodule "vim-test-recall"]
+	path = vim-test-recall
+	url = git@github.com:cyphactor/vim-test-recall.git
+[submodule "vim-open-alternate"]
+	path = vim-open-alternate
+	url = git@github.com:cyphactor/vim-open-alternate.git
+[submodule "vim-rubocop"]
+	path = vim-rubocop
+	url = git@github.com:ngmy/vim-rubocop.git
